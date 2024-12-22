@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "joke": "Why don't skeletons fight each other? They don't have the guts."
+  },
+  {
+    "id": 2,
+    "joke": "What do you call cheese that isn't yours? Nacho cheese."
+  },
+  {
+    "id": 3,
+    "joke": "What do you call a fake noodle? An impasta."
+  },
+  {
+    "id": 4,
+    "joke": "Why couldn't the bicycle stand up by itself? It was two-tired."
+  },
+  {
+    "id": 5,
+    "joke": "What do you call an alligator in a vest? An investigator."
+  },
+  {
+    "id": 6,
+    "joke": "Why don't some couples go to the gym? Because some relationships don't work out."
+  },
+  {
+    "id": 7,
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field."
+  },
+  {
+    "id": 8,
+    "joke": "Why do chicken coops only have two doors? Because if they had four, they’d be a chicken sedan."
+  },
+  {
+    "id": 9,
+    "joke": "What do you get if you cross a snowman and a vampire? Frostbite."
+  },
+  {
+    "id": 10,
+    "joke": "What lies at the bottom of the ocean and twitches? A nervous wreck."
+  },
+  {
+    "id": 11,
+    "joke": "How does a penguin build its house? Igloos it together."
+  },
+  {
+    "id": 12,
+    "joke": "Why don't seagulls fly over the bay? Because then they'd be bagels."
+  },
+  {
+    "id": 13,
+    "joke": "Why was the math book sad? It had too many problems."
+  },
+  {
+    "id": 14,
+    "joke": "How do you organize a space party? You planet."
+  },
+  {
+    "id": 15,
+    "joke": "What kind of shoes do ninjas wear? Sneakers."
+  },
+  {
+    "id": 16,
+    "joke": "Why can't your nose be 12 inches long? Because then it would be a foot."
+  },
+  {
+    "id": 17,
+    "joke": "What do you get when you cross a snowman with a dog? Frostbite."
+  },
+  {
+    "id": 18,
+    "joke": "What did the grape do when it got stepped on? Nothing but let out a little wine."
+  },
+  {
+    "id": 19,
+    "joke": "Why did the golfer bring two pairs of pants? In case he got a hole in one."
+  },
+  {
+    "id": 20,
+    "joke": "What do you call a factory that sells passable products? A satisfactory."
+  },
+  {
+    "id": 21,
+    "joke": "Why did the coffee file a police report? It got mugged."
+  },
+  {
+    "id": 22,
+    "joke": "How do you make a Kleenex dance? Put a little boogie in it."
+  },
+  {
+    "id": 23,
+    "joke": "What did one ocean say to the other ocean? Nothing, they just waved."
+  },
+  {
+    "id": 24,
+    "joke": "Why did the tomato turn red? Because it saw the salad dressing."
+  },
+  {
+    "id": 25,
+    "joke": "Why did the cookie go to the doctor? Because it felt crummy."
+  },
+  {
+    "id": 26,
+    "joke": "What do you call a can opener that doesn’t work? A can’t opener."
+  },
+  {
+    "id": 27,
+    "joke": "Why do cows have hooves instead of feet? Because they lactose."
+  },
+  {
+    "id": 28,
+    "joke": "What do you call a dinosaur with an extensive vocabulary? A thesaurus."
+  },
+  {
+    "id": 29,
+    "joke": "Why don't you ever see elephants hiding in trees? Because they're so good at it."
+  },
+  {
+    "id": 30,
+    "joke": "Why was the big cat disqualified from the race? Because it was a cheetah."
+  },
+  {
+    "id": 31,
+    "joke": "How does a train eat? It goes chew chew."
+  },
+  {
+    "id": 32,
+    "joke": "Why are elevator jokes so classic and good? They work on many levels."
+  },
+  {
+    "id": 33,
+    "joke": "Why don’t skeletons fight each other? They don't have the guts."
+  },
+  {
+    "id": 34,
+    "joke": "What do you call a snowman with a six-pack? An abdominal snowman."
+  },
+  {
+    "id": 35,
+    "joke": "How does a vampire start a letter? Tomb it may concern..."
+  },
+  {
+    "id": 36,
+    "joke": "What's orange and sounds like a parrot? A carrot."
+  },
+  {
+    "id": 37,
+    "joke": "What does a nosy pepper do? It gets jalapeño business."
+  },
+  {
+    "id": 38,
+    "joke": "How do you fix a cracked pumpkin? With a pumpkin patch."
+  },
+  {
+    "id": 39,
+    "joke": "What do you call a cow with no legs? Ground beef."
+  },
+  {
+    "id": 40,
+    "joke": "Why don't oysters share their pearls? Because they're shellfish."
+  },
+  {
+    "id": 41,
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field."
+  },
+  {
+    "id": 42,
+    "joke": "What do you call fake spaghetti? An impasta."
+  },
+  {
+    "id": 43,
+    "joke": "How does a cucumber become a pickle? It goes through a jarring experience."
+  },
+  {
+    "id": 44,
+    "joke": "Why don't some couples go to the gym? Because some relationships don't work out."
+  },
+  {
+    "id": 45,
+    "joke": "Why did the golfer bring an extra pair of pants? In case he got a hole in one."
+  },
+  {
+    "id": 46,
+    "joke": "What do you get when you cross a vampire with a snowman? Frostbite."
+  },
+  {
+    "id": 47,
+    "joke": "Why don't scientists trust atoms? Because they make up everything."
+  },
+  {
+    "id": 48,
+    "joke": "How do you organize a space party? You planet."
+  },
+  {
+    "id": 49,
+    "joke": "What do you call a bee that can’t make up its mind? A maybe."
+  },
+  {
+    "id": 50,
+    "joke": "Why did the coffee file a police report? It got mugged."
+  },
+  {
+    "id": 51,
+    "joke": "How do you throw a space party? You planet."
+  },
+  {
+    "id": 52,
+    "joke": "Why did the math book look sad? Because it had too many problems."
+  },
+  {
+    "id": 53,
+    "joke": "Why don't you ever see elephants hiding in trees? Because they're so good at it."
+  },
+  {
+    "id": 54,
+    "joke": "What do you call a fake noodle? An impasta."
+  },
+  {
+    "id": 55,
+    "joke": "Why do cows wear bells? Because their horns don’t work."
+  },
+  {
+    "id": 56,
+    "joke": "How does a penguin build its house? Igloos it together."
+  },
+  {
+    "id": 57,
+    "joke": "What do you call cheese that isn't yours? Nacho cheese."
+  },
+  {
+    "id": 58,
+    "joke": "Why did the chicken join a band? Because it had the drumsticks."
+  },
+  {
+    "id": 59,
+    "joke": "How does a vampire start a letter? Tomb it may concern..."
+  },
+  {
+    "id": 60,
+    "joke": "Why don’t some couples go to the gym? Because some relationships don't work out."
+  },
+  {
+    "id": 61,
+    "joke": "Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels."
+  },
+  {
+    "id": 62,
+    "joke": "What do you call a bear with no teeth? A gummy bear."
+  },
+  {
+    "id": 63,
+    "joke": "Why don't skeletons fight each other? They don't have the guts."
+  },
+  {
+    "id": 64,
+    "joke": "How does a penguin build its house? Igloos it together."
+  },
+  {
+    "id": 65,
+    "joke": "What kind of shoes do ninjas wear? Sneakers."
+  },
+  {
+    "id": 66,
+    "joke": "Why can't you hear a pterodactyl go to the bathroom? Because the 'P' is silent."
+  },
+  {
+    "id": 67,
+    "joke": "Why did the golfer bring an extra pair of pants? In case he got a hole in one."
+  },
+  {
+    "id": 68,
+    "joke": "What do you call a pile of cats? A meow-tain."
+  },
+  {
+    "id": 69,
+    "joke": "How does Moses make tea? He brews."
+  },
+  {
+    "id": 70,
+    "joke": "Why was the math book sad? It had too many problems."
+  },
+  {
+    "id": 71,
+    "joke": "Why don’t skeletons fight each other? They don't have the guts."
+  },
+  {
+    "id": 72,
+    "joke": "What do you call a pig that does karate? A pork chop."
+  },
+  {
+    "id": 73,
+    "joke": "Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels."
+  },
+  {
+    "id": 74,
+    "joke": "How does a vampire start a letter? Tomb it may concern..."
+  },
+  {
+    "id": 75,
+    "joke": "Why do cows wear bells? Because their horns don’t work."
+  },
+  {
+    "id": 76,
+    "joke": "Why did the golfer bring an extra pair of pants? In case he got a hole in one."
+  },
+  {
+    "id": 77,
+    "joke": "How do you make a Kleenex dance? Put a little boogie in it."
+  },
+  {
+    "id": 78,
+    "joke": "What did one ocean say to the other ocean? Nothing, they just waved."
+  },
+  {
+    "id": 79,
+    "joke": "Why don't some couples go to the gym? Because some relationships don't work out."
+  },
+  {
+    "id": 80,
+    "joke": "Why don't you ever see elephants hiding in trees? Because they're so good at it."
+  },
+  {
+    "id": 81,
+    "joke": "What do you call a snowman with a six-pack? An abdominal snowman."
+  },
+  {
+    "id": 82,
+    "joke": "What do you call a factory that sells passable products? A satisfactory."
+  },
+  {
+    "id": 83,
+    "joke": "Why did the coffee file a police report? It got mugged."
+  },
+  {
+    "id": 84,
+    "joke": "Why don’t skeletons fight each other? They don't have the guts."
+  },
+  {
+    "id": 85,
+    "joke": "Why don't oysters share their pearls? Because they're shellfish."
+  },
+  {
+    "id": 86,
+    "joke": "How do you organize a space party? You planet."
+  },
+  {
+    "id": 87,
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field."
+  },
+  {
+    "id": 88,
+    "joke": "What do you call a fake noodle? An impasta."
+  },
+  {
+    "id": 89,
+    "joke": "How does a train eat? It goes chew chew."
+  },
+  {
+    "id": 90,
+    "joke": "What do you call a pile of cats? A meow-tain."
+  },
+  {
+    "id": 91,
+    "joke": "Why did the tomato turn red? Because it saw the salad dressing."
+  },
+  {
+    "id": 92,
+    "joke": "How does Moses make tea? He brews."
+  },
+  {
+    "id": 93,
+    "joke": "What did the grape do when it got stepped on? Nothing but let out a little wine."
+  },
+  {
+    "id": 94,
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field."
+  },
+  {
+    "id": 95,
+    "joke": "What do you call cheese that isn't yours? Nacho cheese."
+  },
+  {
+    "id": 96,
+    "joke": "How do you fix a cracked pumpkin? With a pumpkin patch."
+  },
+  {
+    "id": 97,
+    "joke": "Why don't some couples go to the gym? Because some relationships don't work out."
+  },
+  {
+    "id": 98,
+    "joke": "What do you call a dinosaur with an extensive vocabulary? A thesaurus."
+  },
+  {
+    "id": 99,
+    "joke": "Why did the coffee file a police report? It got mugged."
+  },
+  {
+    "id": 100,
+    "joke": "What do you call a can opener that doesn’t work? A can’t opener."
+  },
+  {
+    "id": 101,
+    "joke": "How does a penguin build its house? Igloos it together."
+  },
+  {
+    "id": 102,
+    "joke": "Why don’t skeletons fight each other? They don't have the guts."
+  },
+  {
+    "id": 103,
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field."
+  },
+  {
+    "id": 104,
+    "joke": "How do you organize a space party? You planet."
+  },
+  {
+    "id": 105,
+    "joke": "Why don't you ever see elephants hiding in trees? Because they're so good at it."
+  },
+  {
+    "id": 106,
+    "joke": "What do you call a fake noodle? An impasta."
+  },
+  {
+    "id": 107,
+    "joke": "Why did the tomato turn red? Because it saw the salad dressing."
+  },
+  {
+    "id": 108,
+    "joke": "How does a train eat? It goes chew chew."
+  },
+  {
+    "id": 109,
+    "joke": "What do you call a factory that sells passable products? A satisfactory."
+  },
+  {
+    "id": 110,
+    "joke": "What did the grape do when it got stepped on? Nothing but let out a little wine."
+  },
+  {
+    "id": 111,
+    "joke": "Why don't oysters share their pearls? Because they're shellfish."
+  },
+  {
+    "id": 112,
+    "joke": "Why did the coffee file a police report? It got mugged."
+  },
+  {
+    "id": 113,
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field."
+  },
+  {
+    "id": 114,
+    "joke": "What do you call a can opener that doesn’t work? A can’t opener."
+  },
+  {
+    "id": 115,
+    "joke": "What do you call a snowman with a six-pack? An abdominal snowman."
+  },
+  {
+    "id": 116,
+    "joke": "What did one ocean say to the other ocean? Nothing, they just waved."
+  },
+  {
+    "id": 117,
+    "joke": "How do you make a Kleenex dance? Put a little boogie in it."
+  },
+  {
+    "id": 118,
+    "joke": "What do you call a pile of cats? A meow-tain."
+  },
+  {
+    "id": 119,
+    "joke": "Why did the golfer bring an extra pair of pants? In case he got a hole in one."
+  },
+  {
+    "id": 120,
+    "joke": "Why do cows wear bells? Because their horns don’t work."
+  },
+  {
+    "id": 121,
+    "joke": "Why don’t skeletons fight each other? They don't have the guts."
+  },
+  {
+    "id": 122,
+    "joke": "Why was the math book sad? It had too many problems."
+  },
+  {
+    "id": 123,
+    "joke": "Why did the golfer bring an extra pair of pants? In case he got a hole in one."
+  },
+  {
+    "id": 124,
+    "joke": "What kind of shoes do ninjas wear? Sneakers."
+  },
+  {
+    "id": 125,
+    "joke": "Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels."
+  },
+  {
+    "id": 126,
+    "joke": "Why don’t you ever see elephants hiding in trees? Because they're so good at it."
+  },
+  {
+    "id": 127,
+    "joke": "How does Moses make tea? He brews."
+  },
+  {
+    "id": 128,
+    "joke": "Why don’t oysters share their pearls? Because they're shellfish."
+  },
+  {
+    "id": 129,
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field."
+  },
+  {
+    "id": 130,
+    "joke": "How do you organize a space party? You planet."
+  },
+  {
+    "id": 131,
+    "joke": "What do you call a fake noodle? An impasta."
+  },
+  {
+    "id": 132,
+    "joke": "Why did the tomato turn red? Because it saw the salad dressing."
+  },
+  {
+    "id": 133,
+    "joke": "How does a train eat? It goes chew chew."
+  },
+  {
+    "id": 134,
+    "joke": "Why don’t skeletons fight each other? They don't have the guts."
+  },
+  {
+    "id": 135,
+    "joke": "What did one ocean say to the other ocean? Nothing, they just waved."
+  },
+  {
+    "id": 136,
+    "joke": "Why do cows wear bells? Because their horns don’t work."
+  },
+  {
+    "id": 137,
+    "joke": "Why was the math book sad? It had too many problems."
+  },
+  {
+    "id": 138,
+    "joke": "What do you call a pile of cats? A meow-tain."
+  },
+  {
+    "id": 139,
+    "joke": "How does Moses make tea? He brews."
+  },
+  {
+    "id": 140,
+    "joke": "Why did the golfer bring an extra pair of pants? In case he got a hole in one."
+  },
+  {
+    "id": 141,
+    "joke": "Why don't you ever see elephants hiding in trees? Because they're so good at it."
+  },
+  {
+    "id": 142,
+    "joke": "Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels."
+  },
+  {
+    "id": 143,
+    "joke": "Why do cows wear bells? Because their horns don’t work."
+  },
+  {
+    "id": 144,
+    "joke": "Why don’t skeletons fight each other? They don't have the guts."
+  },
+  {
+    "id": 145,
+    "joke": "Why was the math book sad? It had too many problems."
+  },
+  {
+    "id": 146,
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field."
+  },
+  {
+    "id": 147,
+    "joke": "How do you make a Kleenex dance? Put a little boogie in it."
+  },
+  {
+    "id": 148,
+    "joke": "What do you call a pile of cats? A meow-tain."
+  },
+  {
+    "id": 149,
+    "joke": "What do you call a fake noodle? An impasta."
+  },
+  {
+    "id": 150,
+    "joke": "Why don’t skeletons fight each other? They don't have the guts."
+  },
+  {
+    "id": 151,
+    "joke": "Why was the math book sad? It had too many problems."
+  },
+  {
+    "id": 152,
+    "joke": "How do you organize a space party? You planet."
+  },
+  {
+    "id": 153,
+    "joke": "Why did the coffee file a police report? It got mugged."
+  },
+  {
+    "id": 154,
+    "joke": "Why don't oysters share their pearls? Because they're shellfish."
+  },
+  {
+    "id": 155,
+    "joke": "What do you call a can opener that doesn’t work? A can’t opener."
+  },
+  {
+    "id": 156,
+    "joke": "What do you call a snowman with a six-pack? An abdominal snowman."
+  },
+  {
+    "id": 157,
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field."
+  },
+  {
+    "id": 158,
+    "joke": "Why don’t you ever see elephants hiding in trees? Because they're so good at it."
+  },
+  {
+    "id": 159,
+    "joke": "How does a train eat? It goes chew chew."
+  },
+  {
+    "id": 160,
+    "joke": "What did the grape do when it got stepped on? Nothing but let out a little wine."
+  },
+  {
+    "id": 161,
+    "joke": "What do you call a pile of cats? A meow-tain."
+  },
+  {
+    "id": 162,
+    "joke": "Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels."
+  },
+  {
+    "id": 163,
+    "joke": "How do you make a Kleenex dance? Put a little boogie in it."
+  },
+  {
+    "id": 164,
+    "joke": "Why did the golfer bring an extra pair of pants? In case he got a hole in one."
+  },
+  {
+    "id": 165,
+    "joke": "Why was the math book sad? It had too many problems."
+  },
+  {
+    "id": 166,
+    "joke": "How does a penguin build its house? Igloos it together."
+  },
+  {
+    "id": 167,
+    "joke": "What do you call a factory that sells passable products? A satisfactory."
+  },
+  {
+    "id": 168,
+    "joke": "Why did the tomato turn red? Because it saw the salad dressing."
+  },
+  {
+    "id": 169,
+    "joke": "Why don't you ever see elephants hiding in trees? Because they're so good at it."
+  },
+  {
+    "id": 170,
+    "joke": "Why don’t oysters share their pearls? Because they're shellfish."
+  },
+  {
+    "id": 171,
+    "joke": "How does Moses make tea? He brews."
+  },
+  {
+    "id": 172,
+    "joke": "What do you call a pile of cats? A meow-tain."
+  },
+  {
+    "id": 173,
+    "joke": "Why did the golfer bring an extra pair of pants? In case he got a hole in one."
+  },
+  {
+    "id": 174,
+    "joke": "Why don’t you ever see elephants hiding in trees? Because they're so good at it."
+  },
+  {
+    "id": 175,
+    "joke": "What do you call a snowman with a six-pack? An abdominal snowman."
+  },
+  {
+    "id": 176,
+    "joke": "Why do cows wear bells? Because their horns don’t work."
+  },
+  {
+    "id": 177,
+    "joke": "Why was the math book sad? It had too many problems."
+  },
+  {
+    "id": 178,
+    "joke": "How do you make a Kleenex dance? Put a little boogie in it."
+  },
+  {
+    "id": 179,
+    "joke": "Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels."
+  },
+  {
+    "id": 180,
+    "joke": "Why don’t skeletons fight each other? They don't have the guts."
+  },
+  {
+    "id": 181,
+    "joke": "What did the grape do when it got stepped on? Nothing but let out a little wine."
+  },
+  {
+    "id": 182,
+    "joke": "Why don't oysters share their pearls? Because they're shellfish."
+  },
+  {
+    "id": 183,
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field."
+  },
+  {
+    "id": 184,
+    "joke": "Why did the tomato turn red? Because it saw the salad dressing."
+  },
+  {
+    "id": 185,
+    "joke": "Why do cows wear bells? Because their horns don’t work."
+  },
+  {
+    "id": 186,
+    "joke": "Why don’t skeletons fight each other? They don't have the guts."
+  },
+  {
+    "id": 187,
+    "joke": "Why was the math book sad? It had too many problems."
+  },
+  {
+    "id": 188,
+    "joke": "Why did the golfer bring an extra pair of pants? In case he got a hole in one."
+  },
+  {
+    "id": 189,
+    "joke": "Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels."
+  },
+  {
+    "id": 190,
+    "joke": "Why don't you ever see elephants hiding in trees? Because they're so good at it."
+  },
+  {
+    "id": 191,
+    "joke": "What do you call a factory that sells passable products? A satisfactory."
+  },
+  {
+    "id": 192,
+    "joke": "What did one ocean say to the other ocean? Nothing, they just waved."
+  },
+  {
+    "id": 193,
+    "joke": "How does Moses make tea? He brews."
+  },
+  {
+    "id": 194,
+    "joke": "Why don’t oysters share their pearls? Because they're shellfish."
+  },
+  {
+    "id": 195,
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field."
+  },
+  {
+    "id": 196,
+    "joke": "Why was the math book sad? It had too many problems."
+  },
+  {
+    "id": 197,
+    "joke": "What do you call a fake noodle? An impasta."
+  },
+  {
+    "id": 198,
+    "joke": "Why did the tomato turn red? Because it saw the salad dressing."
+  },
+  {
+    "id": 199,
+    "joke": "How does a train eat? It goes chew chew."
+  },
+  {
+    "id": 200,
+    "joke": "Why don’t skeletons fight each other? They don't have the guts."
+  }
+]
